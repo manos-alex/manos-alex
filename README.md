@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alexander Manos, I am studying Computer Science and Engineering at the University of Connecticut. I am currently looking for Summer 2024 internship opportunities. I am proficient in many coding languages including, but not limited to, Python, Java, and C.
+My name is Alexander Manos, I am studying Computer Science and Engineering at the University of Connecticut. I am currently looking for Summer 2025 internship opportunities. I am proficient in many coding languages including, but not limited to, Python, Java, and C.
 
 If you would like to contact me, my email is alexander.manos@uconn.edu
 
