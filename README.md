@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alexander Manos, I am studying Computer Science and Engineering at the University of Connecticut. I am currently looking for Summer 2025 internship opportunities. I am proficient in many coding languages including, but not limited to, Python, Java, and C.<br><br>If you would like to contact me, my email is alexander.manos@uconn.edu<br><br>If you would like to see my resume, it is attached [here](https://github.com/manos-alex/manos-alex/blob/main/AlexanderManosResume.pdf).
+My name is Alexander Manos, I am studying Computer Science and Engineering at the University of Connecticut. I am currently looking for full-time and Summer 2026 internship opportunities. I am proficient in many coding languages including, but not limited to, Python, JavaScript, and C.<br><br>If you would like to contact me, my email is alexander.manos@uconn.edu<br><br>If you would like to see my resume, it is attached [here](https://github.com/manos-alex/manos-alex/blob/main/AlexanderManosResume.pdf).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manos-alex) 
 
