@@ -10,7 +10,7 @@ My name is Alexander Manos, I am studying Computer Science and Engineering at th
 ### Web-dev:
 
 [![circlegame-neo Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-neo&theme=dark&border_color=000000)](https://github.com/circlegame/circlegame-neo)
-[![husky-eats Repo](https://github-readme-stats.vercel.app/api/pin/?username=manos-alex&repo=husky-eats&theme=dark&border_color=000000)](https://github.com/manos-alex/husky-eats)
+[![husky-eats Repo](https://github-readme-stats.vercel.app/api/pin/?username=manos-alex&repo=husky-eats&theme=dark&border_color=000001)](https://github.com/manos-alex/husky-eats)
 
 ### Other
 
